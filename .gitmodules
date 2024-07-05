@@ -1,0 +1,8 @@
+[submodule "NestJS_IESGateway_Backend"]
+	path = NestJS_IESGateway_Backend
+	url = git@github.com:ErnestoCZ/NestJS_IESGateway_Backend.git
+	branch = master
+[submodule "IES_MQTT_Client"]
+	path = IES_MQTT_Client
+	url = git@github.com:ErnestoCZ/IES_MQTT_Client.git
+	branch = master
